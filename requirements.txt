@@ -1,0 +1,13 @@
+ccxt
+pandas
+numpy
+TA-Lib==0.4.28
+scikit-learn
+torch
+python-telegram-bot
+streamlit
+yfinance
+python-binance
+flask
+requests
+deriv-api
